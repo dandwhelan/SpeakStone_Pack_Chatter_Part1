@@ -261,6 +261,7 @@ SpeakStoneSoundLengths_Pack_Chatter_Part1 = {
     ["item_ancient_dragonforged_blades_page1.ogg"] = 27.70,
     ["item_ancient_inscription_page1.ogg"] = 9.30,
     ["item_ancient_tablet_page1.ogg"] = 19.00,
+    ["item_ancient_troll_skeleton_page1.ogg"] = 6.72,
     ["item_annals_of_darrowshire_page1.ogg"] = 17.70,
     ["item_annals_of_darrowshire_page2.ogg"] = 18.50,
     ["item_annals_of_darrowshire_page3.ogg"] = 24.41,

@@ -1129,6 +1129,7 @@ SpeakStoneSoundLengths_Pack_Chatter_Part1 = {
     ["item_mythology_of_the_titans_page2.ogg"] = 24.00,
     ["item_mythology_of_the_titans_page3.ogg"] = 24.00,
     ["item_mythology_of_the_titans_page4.ogg"] = 22.60,
+    ["item_nameless_grave_page1.ogg"] = 4.16,
     ["item_nat_pagles_guide_to_extreme_anglin_page1.ogg"] = 7.41,
     ["item_neekas_report_page1.ogg"] = 19.30,
     ["item_neekas_report_page2.ogg"] = 21.30,

@@ -1352,6 +1352,7 @@ SpeakStoneSoundLengths_Pack_Chatter_Part1 = {
     ["item_tablet_of_akilzon_page1.ogg"] = 27.36,
     ["item_tablet_of_halazzi_page1.ogg"] = 38.61,
     ["item_tablet_of_janalai_page1.ogg"] = 41.76,
+    ["item_tablet_of_kulzi_page1.ogg"] = 34.56,
     ["item_tablet_of_nalorakk_page1.ogg"] = 40.08,
     ["item_tainted_letter_page1.ogg"] = 25.40,
     ["item_tainted_memorandum_page1.ogg"] = 22.70,

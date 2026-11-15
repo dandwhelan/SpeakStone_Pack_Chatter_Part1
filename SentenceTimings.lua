@@ -1046,6 +1046,7 @@ local T = {
 ["npc1289_gossip1"]="40",
 ["npc1292_gossip1"]="60",
 ["npc1300_gossip2"]="36,89",
+["npc1301_gossip2"]="50",
 ["npc1302_gossip1"]="48",
 ["npc1303_gossip1"]="44",
 ["npc1311_gossip1"]="48,78",
